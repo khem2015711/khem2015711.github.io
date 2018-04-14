@@ -1,1 +1,1 @@
-ijrgirejf
+var name1 = prompt("enter you name");
